@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ativ.git\\Atividade-Git-AdaTech\\Atividade_Git\\Atividade_Git.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ativ\\Atividade_Git\\Atividade_Git.csproj",
       "projectName": "Atividade_Git",
-      "projectPath": "C:\\Users\\User\\Desktop\\ativ.git\\Atividade-Git-AdaTech\\Atividade_Git\\Atividade_Git.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\ativ\\Atividade_Git\\Atividade_Git.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ativ.git\\Atividade-Git-AdaTech\\Atividade_Git\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ativ\\Atividade_Git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
