@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Murilo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\00_Programacao\\C#\\Ada\\CursoDeFormacao\\02 - POO 01\\Atividade-Git-AdaTech\\Atividade_Git\\Atividade_Git.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ativ.git\\Atividade-Git-AdaTech\\Atividade_Git\\Atividade_Git.csproj",
       "projectName": "Atividade_Git",
-      "projectPath": "D:\\00_Programacao\\C#\\Ada\\CursoDeFormacao\\02 - POO 01\\Atividade-Git-AdaTech\\Atividade_Git\\Atividade_Git.csproj",
-      "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-      "outputPath": "D:\\00_Programacao\\C#\\Ada\\CursoDeFormacao\\02 - POO 01\\Atividade-Git-AdaTech\\Atividade_Git\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\ativ.git\\Atividade-Git-AdaTech\\Atividade_Git\\Atividade_Git.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ativ.git\\Atividade-Git-AdaTech\\Atividade_Git\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
